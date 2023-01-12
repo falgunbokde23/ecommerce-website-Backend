@@ -7,5 +7,6 @@ import com.masai.model.Address;
 
 @Repository
 public interface AddressDao extends JpaRepository<Address, Integer> {
+  
 
 }
